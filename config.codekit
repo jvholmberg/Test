@@ -42,6 +42,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/app\/js\/counting-lines\/counting-lines.dir.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/js\/counting-lines\/counting-lines.dir.js",
+		"outputAbbreviatedPath": "\/app\/js\/counting-lines\/min\/counting-lines.dir-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/app\/js\/counting-lines\/counting-lines.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -57,6 +68,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/js\/counting-lines\/min\/counting-lines.ctr-min.js",
 		"outputAbbreviatedPath": "\/app\/js\/counting-lines\/min\/min\/counting-lines.ctr-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/js\/counting-lines\/min\/counting-lines.dir-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/js\/counting-lines\/min\/counting-lines.dir-min.js",
+		"outputAbbreviatedPath": "\/app\/js\/counting-lines\/min\/min\/counting-lines.dir-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

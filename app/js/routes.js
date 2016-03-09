@@ -11,7 +11,8 @@
     $stateProvider
       .state('installation', {
         url: '/installation',
-        templateUrl: 'app/js/counting-lines/counting-lines.html'
+        templateUrl: 'app/js/counting-lines/counting-lines.html',
+        controller: 'InstCountingLinesController'
       })
       $urlRouterProvider.otherwise('/installation');
   }

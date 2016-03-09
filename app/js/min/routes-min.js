@@ -1,1 +1,1 @@
-!function(){"use strict";function t(t,n){t.state("installation",{url:"/installation",templateUrl:"app/js/counting-lines/counting-lines.html"}),n.otherwise("/installation")}angular.module("app").config(t),t.$inject=["$stateProvider","$urlRouterProvider"]}();
+!function(){"use strict";function t(t,n){t.state("installation",{url:"/installation",templateUrl:"app/js/counting-lines/counting-lines.html",controller:"InstCountingLinesController"}),n.otherwise("/installation")}angular.module("app").config(t),t.$inject=["$stateProvider","$urlRouterProvider"]}();

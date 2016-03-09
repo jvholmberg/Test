@@ -1,4 +1,8 @@
-<div class="camera-wrapper" ng-controller="CountingLinesController" ng-click="checkLines($event)">
-  <canvas id="canvas-in" width="500" height="500" style="position: absolute;"></canvas>
-  <canvas id="canvas-out" width="500" height="500" style="position: absolute;"></canvas>
+<h1>Counting lines</h1>
+
+<div class="camera-wrapper">
+  <div class="camera-frame">
+    <camera-line id="camera-line-in" points-arr="inPoints"></camera-line>
+    <camera-line id="camera-line-out" points-arr="outPoints"></camera-line>
+  </div>
 </div>
